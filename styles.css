@@ -3,6 +3,8 @@
 }
 head {
   text-align: center;
+  display: inline;
+  margin: auto 0;
 }
 .est {
   display: inline;
