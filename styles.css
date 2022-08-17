@@ -5,7 +5,8 @@ head {
   text-align: center;
 }
 .est {
-  display: flex;
+  display: inline;
   text-align: center;
   color: black;
+  margin: 0;
 }
