@@ -2,9 +2,9 @@
   background-color: #FFB6C1;
 }
 head {
-  text-align: center;
   display: inline;
-  margin: auto 0;
+  text-align: center;
+  margin: 0;
 }
 .est {
   display: inline;
