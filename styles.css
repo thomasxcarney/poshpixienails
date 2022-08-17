@@ -4,3 +4,8 @@
 head {
   text-align: center;
 }
+.est {
+  display: flex;
+  text-align: center;
+  color: black;
+}
