@@ -16,3 +16,6 @@ h1 {
 img {
   max-width: 50%;
 }
+#photo2 {
+  transform: (rotate)180deg;
+}
