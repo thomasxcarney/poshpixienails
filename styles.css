@@ -14,8 +14,16 @@ h1 {
   margin: 10px auto;
 }
 img {
-  max-width: 50%;
+  max-width: 350px;
+  width: 100%;
+  object-fit: cover;
 }
 #photo2 {
   transform: (rotate)180deg;
+}
+.photos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
