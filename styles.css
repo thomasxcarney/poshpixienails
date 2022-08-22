@@ -25,7 +25,7 @@ img {
   max-width: 350px;
   width: 100%;
   object-fit: cover;
-  border-radius: 98%;
+  border-radius: 10px;
 }
 #photo2 {
   transform: rotate(180deg);
