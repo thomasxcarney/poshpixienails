@@ -26,6 +26,7 @@ img {
   width: 100%;
   object-fit: cover;
   padding: 0 10px;
+  border-radius: 10px;
 }
 #photo2 {
   transform: rotate(180deg);
